@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**ElBalles10/ElBalles10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Sebastián 👋
 
-Here are some ideas to get you started:
+### 💻 Full Stack Developer | Python · Django · React · TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy desarrollador de software enfocado en la creación de aplicaciones web, automatización de procesos y optimización de soluciones tecnológicas.
+
+Actualmente me desempeño como desarrollador Full Stack, trabajando con tecnologías modernas y fortaleciendo mis conocimientos en arquitectura de software, procesamiento de datos e inteligencia artificial.
+
+## 🛠️ Tecnologías
+
+**Backend:** Python · Django · FastAPI
+
+**Frontend:** React · TypeScript · JavaScript · Tailwind CSS
+
+**Bases de datos:** PostgreSQL
+
+**Herramientas:** Git · GitHub · Docker
+
+## 🚀 Proyectos personales
+
+### ChatBotIA
+Proyecto enfocado en consultas y procesamiento eficiente de grandes volúmenes de datos utilizando Python, FastAPI, Polars y archivos Parquet.
+
+### PersonalHub
+Aplicación personal en desarrollo para integrar funcionalidades de gestión financiera, entrenamiento y organización personal.
+
+## 📚 Actualmente aprendiendo
+
+- Inteligencia artificial aplicada al desarrollo de software
+- Arquitectura y buenas prácticas de desarrollo
+- Automatización y optimización de procesos
+  
