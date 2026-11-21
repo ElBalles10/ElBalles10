@@ -1,33 +1,76 @@
 
-# ¡Hola! Soy Sebastián 👋
+<div align="center">
 
-### 💻 Full Stack Developer | Python · Django · React · TypeScript
+# Hi there, I'm Sebastián 👋
 
-Soy desarrollador de software enfocado en la creación de aplicaciones web, automatización de procesos y optimización de soluciones tecnológicas.
+### 💻 Full Stack Developer
 
-Actualmente me desempeño como desarrollador Full Stack, trabajando con tecnologías modernas y fortaleciendo mis conocimientos en arquitectura de software, procesamiento de datos e inteligencia artificial.
+**Python · Django · React · TypeScript**
 
-## 🛠️ Tecnologías
+Passionate about building web applications, automating processes and exploring AI-driven solutions.
 
-**Backend:** Python · Django · FastAPI
+</div>
 
-**Frontend:** React · TypeScript · JavaScript · Tailwind CSS
+---
 
-**Bases de datos:** PostgreSQL
+## 👨‍💻 About Me
 
-**Herramientas:** Git · GitHub · Docker
+- 💼 Currently working as a **Full Stack Developer Intern**.
+- 🎓 Software development background at **Universidad Distrital Francisco José de Caldas**.
+- ⚙️ Interested in **backend development, automation and data processing**.
+- 🤖 Exploring **Artificial Intelligence and its applications in software development**.
+- 📚 Continuously learning and improving my technical skills.
 
-## 🚀 Proyectos personales
+## 🛠️ Tech Stack
 
-### ChatBotIA
-Proyecto enfocado en consultas y procesamiento eficiente de grandes volúmenes de datos utilizando Python, FastAPI, Polars y archivos Parquet.
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="42" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI"/>
+</p>
 
-### PersonalHub
-Aplicación personal en desarrollo para integrar funcionalidades de gestión financiera, entrenamiento y organización personal.
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>
+</p>
 
-## 📚 Actualmente aprendiendo
+### Databases & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" title="GitHub"/>
+</p>
 
-- Inteligencia artificial aplicada al desarrollo de software
-- Arquitectura y buenas prácticas de desarrollo
-- Automatización y optimización de procesos
-  
+## 🚀 Featured Projects
+
+### 🤖 [ChatBotIA](https://github.com/ElBalles10/ChatBotIA)
+
+Backend project focused on efficient querying and processing of large datasets using FastAPI, Polars and Parquet files.
+
+**Tech:** Python · FastAPI · Polars · Parquet
+
+### 📊 [PersonalHub](https://github.com/ElBalles10/PersonalHub)
+
+Personal full-stack application designed to manage finances, fitness and daily activities.
+
+**Tech:** Python · Django · React · PostgreSQL
+
+## 🎯 Currently Exploring
+
+- AI-powered applications and LLM integration
+- Backend architecture and API development
+- Workflow automation
+- Software testing and best practices
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+</div>
