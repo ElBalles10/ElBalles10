@@ -1,13 +1,14 @@
 
 <div align="center">
 
-# Hi there, I'm Sebastián 👋
+# Hi, I'm Sebastián 👋
 
-### 💻 Full Stack Developer
+### Full Stack Developer
 
-**Python · Django · React · TypeScript**
+Building web applications, automating workflows and exploring AI-powered solutions.
 
-Passionate about building web applications, automating processes and exploring AI-driven solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ballesteros-66aa26403/)
+[![GitHub](https://img.shields.io/badge/GitHub-ElBalles10-181717?style=flat&logo=github&logoColor=white)](https://github.com/ElBalles10)
 
 </div>
 
@@ -15,62 +16,60 @@ Passionate about building web applications, automating processes and exploring A
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as a **Full Stack Developer Intern**.
-- 🎓 Software development background at **Universidad Distrital Francisco José de Caldas**.
-- ⚙️ Interested in **backend development, automation and data processing**.
-- 🤖 Exploring **Artificial Intelligence and its applications in software development**.
-- 📚 Continuously learning and improving my technical skills.
+I'm a **Full Stack Developer Intern** with hands-on experience building web applications, improving internal systems and automating operational workflows.
+
+- 💻 Working with **Python, Django, React and TypeScript**.
+- ⚙️ Interested in **backend development and process automation**.
+- 📊 Exploring **data processing and performance optimization**.
+- 🤖 Learning about **AI integration and LLM-powered applications**.
+- 🎓 Studying **Data Systematization Technology** at Universidad Distrital Francisco José de Caldas.
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="42" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi" alt="Python, Django, FastAPI"/>
 
 ### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>
-</p>
 
-### Databases & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" title="GitHub"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind" alt="React, TypeScript, JavaScript, Tailwind CSS"/>
 
-## 🚀 Featured Projects
+### Database & Tools
 
-### 🤖 [ChatBotIA](https://github.com/ElBalles10/ChatBotIA)
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode" alt="PostgreSQL, Docker, Git, GitHub, VS Code"/>
 
-Backend project focused on efficient querying and processing of large datasets using FastAPI, Polars and Parquet files.
+</div>
 
-**Tech:** Python · FastAPI · Polars · Parquet
+## 💼 What I Do
 
-### 📊 [PersonalHub](https://github.com/ElBalles10/PersonalHub)
+- Develop and maintain full-stack web applications.
+- Automate repetitive business processes.
+- Improve existing features and user interfaces.
+- Build APIs and work with relational databases.
+- Collaborate using Git and GitHub workflows.
 
-Personal full-stack application designed to manage finances, fitness and daily activities.
+## 🚀 Personal Projects
 
-**Tech:** Python · Django · React · PostgreSQL
+Currently developing and experimenting with:
 
-## 🎯 Currently Exploring
+**ChatBotIA** — Backend experiments focused on efficient data querying using FastAPI, Polars and Parquet.
 
-- AI-powered applications and LLM integration
-- Backend architecture and API development
-- Workflow automation
-- Software testing and best practices
+**PersonalHub** — A personal full-stack application for organizing finances, fitness and everyday activities.
+
+*Both projects are currently private and under development.*
+
+## 📚 Currently Learning
+
+- AI integration and LLM applications
+- Backend architecture and API design
+- Automated testing and software best practices
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+**Always learning. Always building. 🚀**
 
 </div>
